@@ -1,0 +1,56 @@
+{
+  "streams": [
+    {
+      "title": "Test",
+      "description": "Test",
+      "id": 1
+    },
+    {
+      "title": "Test 1",
+      "description": "Test 2",
+      "id": 2
+    },
+    {
+      "title": "Test 3",
+      "description": "Test 3",
+      "id": 3
+    },
+    {
+      "title": "TEST 4",
+      "description": "TEST 4",
+      "id": 4
+    },
+    {
+      "title": "test",
+      "description": "test",
+      "id": 5
+    },
+    {
+      "title": "without userid",
+      "description": "without userid",
+      "id": 6
+    },
+    {
+      "title": "no id",
+      "description": "no id",
+      "id": 7
+    },
+    {
+      "title": "Programmatic navigation changed success",
+      "description": "navigation programmatically",
+      "id": 10
+    },
+    {
+      "title": "asdfdsfsadf",
+      "description": "asdfadf",
+      "userId": "101415301780867288440",
+      "id": 11
+    },
+    {
+      "title": "adfaf",
+      "description": "adsf",
+      "userId": "101415301780867288440",
+      "id": 12
+    }
+  ]
+}
